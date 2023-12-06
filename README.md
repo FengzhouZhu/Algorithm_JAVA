@@ -1,3 +1,3 @@
 ## Algorithm_JAVA 
-Algorithm problems practice notes  
+Algorithm problems practice record
 Follow https://github.com/greyireland/algorithm-pattern
